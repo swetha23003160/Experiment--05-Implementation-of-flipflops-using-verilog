@@ -102,33 +102,65 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
+Procedure :-
+Step:1 Open Quartus II and select new project and choose the file location. Step:2 Module Declaration. Module should have the file name. Step:3 Declare Inputs and outputs. Step:4 Use assign declaration and wire to define the functionality of logic circuits. Step:5 End the program with endmodule. Step:6 Run the program and choose RTL viewer to get RTL realization.
 
 
 
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+
+
+
+![Screenshot 2024-01-03 081458](https://github.com/swetha23003160/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150416143/05875258-20cb-412f-b061-a646f0815720)
+
+
+
+![Screenshot 2024-01-03 081506](https://github.com/swetha23003160/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150416143/39990922-050e-4569-8744-4472d79b511c)
+
+
+![Screenshot 2024-01-03 081515](https://github.com/swetha23003160/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150416143/3796842a-4b48-47f6-9b57-1a89e86905e1)
+
+
+![Screenshot 2024-01-03 081523](https://github.com/swetha23003160/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150416143/dcc071a9-dfa1-4070-aa3f-f2f5ed4eaac2)
+
+
+##RTL
+
+
+
+![Screenshot 2024-01-03 081535](https://github.com/swetha23003160/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150416143/b76452c4-4166-4005-8f10-ee3c17c86ef7)
+
+
+![Screenshot 2024-01-03 081545](https://github.com/swetha23003160/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150416143/50e7f2dd-97d1-4601-a1b1-5407366cb1d1)
+
+![Screenshot 2024-01-03 081554](https://github.com/swetha23003160/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150416143/009473de-5e27-40b8-baf4-ee090a09ad42)
+
+![Screenshot 2024-01-03 081600](https://github.com/swetha23003160/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150416143/c2351a1f-389a-48c2-afc0-39015f156828)
+
+
+##OUTPUT
+
+![Screenshot 2024-01-03 081611](https://github.com/swetha23003160/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150416143/91df6477-676f-42f3-a3c8-4acf3d253778)
+
+![Screenshot 2024-01-03 081618](https://github.com/swetha23003160/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150416143/c42b698c-b0e6-4436-bc38-1f016862c36b)
+
+
+![Screenshot 2024-01-03 081623](https://github.com/swetha23003160/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150416143/25a70e04-afd3-4a66-ad7f-874358737cbb)
+
+![Screenshot 2024-01-03 081629](https://github.com/swetha23003160/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150416143/c98fcafe-5466-43d1-b2bc-3b4202e76742)
 
 
 
 
 
 
-### RTL LOGIC FOR FLIPFLOPS 
 
 
+Developed by: swetha m
+RegisterNumber:  23003160
 
-
-
-
-
-
-
-### TIMING DIGRAMS FOR FLIP FLOPS 
 
 
 
